@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "maxwinop.aternos.me",
-    "port": 29534,
+    "ip": "maxwininer.aternos.me",
+    "port": 23288
     "version": "",
     "try-creative": false
   },
